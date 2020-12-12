@@ -10,7 +10,7 @@ Videos:
 Recursos:
 - https://github.com/vladimiredwinac/demo-openapi 
 
-Arte and Abstracts:
+Arte y Abstracts:
 
 ![flier](sources/flier.png)
 
